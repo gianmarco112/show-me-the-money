@@ -34,4 +34,4 @@ The microblog project is released under the [WTFPL (Do What The F*ck You Want To
 
 ## Author 🙌
 
-Created with ❤️ by [gpericol](https://github.com/gpericol).
+Created with ❤️ by Gianmarco
